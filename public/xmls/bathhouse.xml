@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root name="root">
+<floor name="Floor 1" viewId="0">
+<wall name="Wall 49" startX="874.26056" startY="1.4850725" endX="874.26056" endY="700.5689"/>
+<wall name="Wall 50" startX="879.03174" startY="700.5689" endX="355.28735" endY="704.3618"/>
+<wall name="Wall 51" startX="355.2455" startY="693.8585" endX="355.2455" endY="-0.40759856"/>
+<wall name="Wall 52" startX="360.01672" startY="-0.40759856" endX="877.1484" endY="-0.40004182"/>
+<wall name="Wall 53" startX="4.771205" startY="4.417666" endX="356.20813" endY="1.5786597"/>
+<wall name="Wall 54" startX="350.51617" startY="701.6088" endX="4.813058" endY="698.6838"/>
+<wall name="Wall 55" startX="0.0" startY="500.0" endX="0.0" endY="0.0"/>
+<wall name="Wall 56" startX="523.82806" startY="4.417666" endX="525.7533" endY="180.60812"/>
+<socket_1x220 name="Power Socket 7" x="37.207027" y="45.282154"/>
+<light_lamp name="Light 7" x="174.37918" y="352.49707"/>
+</floor>
+</root>
+

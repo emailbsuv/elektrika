@@ -1,0 +1,282 @@
+[
+{
+  "id":1,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":10,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":0,
+  "executor_id":0
+},
+{
+  "id":2,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":11,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":0,
+  "executor_id":0
+},
+{
+  "id":3,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":12,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":0,
+  "executor_id":0
+},
+{
+  "id":4,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":13,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":0,
+  "executor_id":0
+},
+{
+  "id":5,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":14,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":0,
+  "executor_id":0
+},
+{
+  "id":6,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":15,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":0,
+  "executor_id":0
+},
+{
+  "id":7,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":16,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":0,
+  "executor_id":0
+},
+{
+  "id":8,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":18,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":0,
+  "executor_id":0
+},
+{
+  "id":9,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":10,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":0,
+  "executor_id":0
+},
+{
+  "id":10,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":10,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":0,
+  "executor_id":0
+},
+{
+  "id":11,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":10,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":0,
+  "executor_id":0
+},
+{
+  "id":12,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":10,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":0,
+  "executor_id":0
+},
+{
+  "id":13,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":10,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":0,
+  "executor_id":0
+},
+{
+  "id":14,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":10,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":0,
+  "executor_id":0
+},
+{
+  "id":15,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":10,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":0,
+  "executor_id":0
+},
+{
+  "id":16,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":10,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":0,
+  "executor_id":0
+},
+{
+  "id":17,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":10,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":1,
+  "executor_id":1
+},
+{
+  "id":18,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":10,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":1,
+  "executor_id":1
+},
+{
+  "id":19,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":10,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":1,
+  "executor_id":1
+},
+{
+  "id":20,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":10,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":1,
+  "executor_id":1
+},
+{
+  "id":21,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":10,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":2,
+  "executor_id":2
+},
+{
+  "id":22,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":10,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":2,
+  "executor_id":2
+},
+{
+  "id":23,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":10,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":2,
+  "executor_id":2
+},
+{
+  "id":24,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":10,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":2,
+  "executor_id":2
+},
+{
+  "id":25,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":10,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":3,
+  "executor_id":3
+},
+{
+  "id":26,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":10,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":3,
+  "executor_id":3
+},
+{
+  "id":27,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":10,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":3,
+  "executor_id":3
+},
+{
+  "id":28,
+  "name":"Кабель ВВГнг LS 3*6",
+  "unit":"м",
+  "quantity":10,
+  "cost_per_unit":10,
+  "total_cost":100,
+  "project_id":3,
+  "executor_id":3
+}
+]

@@ -1,0 +1,22 @@
+[
+{
+  "id":1,
+  "name":"Юлия",
+  "avatar":"https://publicdomainvectors.org/photos/Female-Avatar.png",
+  "rate":2,
+  "how_can_help":"Электромонтажгица с опытом работы 10 лет",
+  "looking_for":"Новые заказы",
+  "waiting_cal":true,
+  "favorite":false
+},
+{
+  "id":2,
+  "name":"СтройЦентр",
+  "avatar":"https://publicdomainvectors.org/photos/1458084029.png",
+  "rate":4,
+  "how_can_help":"Электромонтажгица с опытом работы 12 лет",
+  "looking_for":"Новые заказы",
+  "waiting_cal":false,
+  "favorite":false
+}
+]

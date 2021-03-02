@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root name="root">
+<floor name="Floor 1" viewId="0">
+<wall name="Wall 33" startX="703.52496" startY="-0.531064" endX="703.52496" endY="876.54987"/>
+<wall name="Wall 34" startX="703.14685" startY="877.11975" endX="3.5389345" endY="878.44257"/>
+<wall name="Wall 35" startX="-1.2322706" startY="876.54987" endX="0.0" endY="0.0"/>
+<wall name="Wall 36" startX="0.0" startY="0.0" endX="698.7537" endY="2.3079426"/>
+<wall name="Wall 37" startX="-345.97275" startY="2.8290083" endX="-350.7439" endY="870.3606"/>
+<wall name="Wall 38" startX="-5.040806" startY="877.0709" endX="-346.01456" endY="879.91"/>
+<wall name="Wall 39" startX="-175.64487" startY="-5.9366856" endX="-175.64487" endY="247.33711"/>
+<wall name="Wall 40" startX="0.0" startY="0.0" endX="-352.6692" endY="-0.09602864"/>
+<wall name="Wall 41" startX="-348.99866" startY="1218.7075" endX="-350.84018" endY="873.43616"/>
+<wall name="Wall 42" startX="699.5783" startY="878.25385" endX="701.50354" endY="1223.9244"/>
+<wall name="Wall 43" startX="-2.332938" startY="239.76642" endX="-343.26483" endY="241.65909"/>
+<wall name="Wall 44" startX="-348.9568" startY="1223.9244" endX="701.50354" endY="1226.7634"/>
+<socket_1x220 name="Power Socket 1" x="92.22411" y="41.862034"/>
+<socket_1x220 name="Power Socket 2" x="-136.33334" y="39.02303"/>
+<socket_1x220 name="Power Socket 3" x="-310.18936" y="277.15546"/>
+<socket_1x220 name="Power Socket 4" x="657.4445" y="916.19"/>
+<light_lamp name="Light 1" x="349.96545" y="368.90698"/>
+<light_lamp name="Light 2" x="-173.82079" y="526.47186"/>
+<light_lamp name="Light 3" x="-88.10651" y="130.30139"/>
+<light_lamp name="Light 4" x="-247.69077" y="128.40872"/>
+<light_lamp name="Light 5" x="183.68477" y="1055.6454"/>
+</floor>
+<floor name="Floor 10" viewId="10">
+<wall name="Wall 45" startX="700.8876" startY="4.631347" endX="701.7246" endY="1223.9846"/>
+<wall name="Wall 46" startX="699.79944" startY="1223.9846" endX="4.584612" endY="1225.8773"/>
+<wall name="Wall 47" startX="-0.18659317" startY="1221.1456" endX="0.0" endY="0.0"/>
+<wall name="Wall 48" startX="0.0" startY="0.0" endX="699.0042" endY="3.6850119"/>
+<socket_1x220 name="Power Socket 5" x="40.841583" y="35.92593"/>
+<socket_1x220 name="Power Socket 6" x="33.2244" y="1181.594"/>
+<light_lamp name="Light 6" x="359.84268" y="534.04254"/>
+</floor>
+</root>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root name="root">
+<floor name="Floor 1" viewId="0"/>
+<wall name="Wall 96" startX="707.6032" startY="-174.00993" endX="707.6032" endY="695.5003"/>
+<wall name="Wall 97" startX="704.7572" startY="695.5003" endX="352.35767" endY="695.5003"/>
+<wall name="Wall 98" startX="355.2455" startY="695.5003" endX="352.35767" endY="1403.1012"/>
+<wall name="Wall 99" startX="352.35767" startY="1403.1012" endX="-350.43253" endY="1400.2622"/>
+<wall name="Wall 100" startX="-347.58652" startY="1397.4232" endX="-344.74054" endY="-171.0849"/>
+<wall name="Wall 101" startX="-347.58652" startY="-168.2459" endX="710.44916" endY="-174.00993"/>
+<light_lamp name="Light 2" x="444.76834" y="184.84734"/>
+<light_lamp name="Light 3" x="10.504964" y="535.78345"/>
+<socket_1x220 name="Power Socket 4" x="659.4377" y="64.15562"/>
+<socket_1x220 name="Power Socket 5" x="665.78015" y="505.97897"/>
+<socket_1x220 name="Power Socket 6" x="313.4225" y="1309.4655"/>
+</root>
+

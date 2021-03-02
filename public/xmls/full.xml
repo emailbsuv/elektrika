@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project id="55" name="Full test project" type="house" gridX="1000" gridY="1000">
+    <Flor id="13" name="First flor" level="1" height="2000">
+        <Room id="24" name="Hall" long="3000" width="4000" x="0" y="0" neighborN="0" neighborS="0" neighborW="0" neighborE="25">
+            <Light id="117" x="1000" y="2000"/>
+            <Wall id="200" width="200" x1="0" y1="0" x2="3000" y2="3000">
+                <Socket id="17" type="group" num="5" distance="1000" height="200"/>
+                <Socket id="18" type="group" num="5" distance="-1000" height="20"/>
+            </Wall>
+            <Wall id="201" width="200" x1="0" y1="0" x2="3000" y2="3000">
+                <Light id="24" distance="1000" height="1500"/>
+            </Wall>
+            <Wall id="202" width="200" x1="0" y1="0" x2="3000" y2="3000">
+                <ElectricBox name="main box">
+                    <height>1500</height>
+                    <distance>1000</distance>
+                </ElectricBox>
+            </Wall>
+            <Wall id="200" width="203" x1="0" y1="0" x2="3000" y2="3000">
+            </Wall>
+        </Room>
+        <Room id="25" name="Hall2" long="3000" width="4000" x="0" y="0" neighborN="0" neighborS="0" neighborW="0" neighborE="25">
+            <Light id="117" x="1000" y="2000"/>
+            <Wall id="200" width="200" x1="0" y1="0" x2="3000" y2="3000">
+                <Socket id="17" type="group" num="5" distance="1000" height="20"/>
+                <Socket id="18" type="group" num="5" distance="-1000" height="20"/>
+            </Wall>
+            <Wall id="201" width="200" x1="0" y1="0" x2="3000" y2="3000">
+                <Light id="24" distance="1000" height="1500"/>
+            </Wall>
+            <Wall id="202" width="200" x1="0" y1="0" x2="3000" y2="3000">
+            </Wall>
+            <Wall id="200" width="203" x1="0" y1="0" x2="3000" y2="3000">
+            </Wall>
+        </Room>
+    </Flor>
+</Project>

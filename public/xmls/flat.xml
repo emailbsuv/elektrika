@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root name="root">
+<floor name="Floor 1" viewId="0"/>
+<wall name="Wall 102" startX="1227.539" startY="527.0704" endX="1224.6511" endY="1082.3113"/>
+<wall name="Wall 103" startX="622.7678" startY="1087.9893" endX="1227.539" endY="1085.1503"/>
+<wall name="Wall 104" startX="1221.8052" startY="527.0704" endX="622.7678" endY="524.2314"/>
+<wall name="Wall 105" startX="622.7678" startY="286.09897" endX="619.9218" endY="-174.85246"/>
+<wall name="Wall 106" startX="378.97598" startY="882.29034" endX="381.82196" endY="1090.8282"/>
+<wall name="Wall 107" startX="619.9218" startY="879.4513" endX="122.79575" endY="876.6123"/>
+<wall name="Wall 108" startX="1224.6511" startY="-171.92741" endX="622.7678" endY="-171.92741"/>
+<wall name="Wall 109" startX="1227.539" startY="529.9094" endX="1227.539" endY="-171.92741"/>
+<wall name="Wall 110" startX="620.9375" startY="289.96582" endX="620.9375" endY="1089.9658"/>
+<wall name="Wall 111" startX="620.9375" startY="1089.9658" endX="120.9375" endY="1089.9658"/>
+<wall name="Wall 112" startX="120.9375" startY="1089.9658" endX="120.9375" endY="289.96582"/>
+<wall name="Wall 113" startX="120.9375" startY="289.96582" endX="620.9375" endY="289.96582"/>
+<socket_1x220 name="Power Socket 7" x="716.0993" y="-133.04419"/>
+<socket_1x220 name="Power Socket 8" x="1188.03" y="446.0271"/>
+<socket_1x220 name="Power Socket 9" x="575.18134" y="333.58524"/>
+<socket_1x220 name="Power Socket 10" x="160.88168" y="819.53455"/>
+<socket_1x220 name="Power Socket 11" x="1180.8314" y="1034.8689"/>
+<socket_1x220 name="Power Socket 12" x="578.94806" y="922.51306"/>
+<light_lamp name="Light 4" x="352.31583" y="564.45416"/>
+<light_lamp name="Light 5" x="939.88556" y="788.2195"/>
+<light_lamp name="Light 6" x="937.03955" y="170.24843"/>
+<light_lamp name="Light 7" x="243.70813" y="979.32227"/>
+<light_lamp name="Light 8" x="490.34595" y="987.36615"/>
+</root>
+
